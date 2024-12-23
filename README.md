@@ -5,4 +5,5 @@ This repository includes tutorial notebooks that I have developed to practice th
 ## Some of the tools utilized 🤖🛠️
 - Ollama
 - OpenAI
+- Hugging Face
 - ... more to come
