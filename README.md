@@ -6,4 +6,7 @@ This repository includes tutorial notebooks that I have developed to practice th
 - Ollama
 - OpenAI
 - Hugging Face
+- LangChain
+- TavilyAPI
+- Gradio
 - ... more to come
