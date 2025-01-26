@@ -9,4 +9,5 @@ This repository includes tutorial notebooks that I have developed to practice th
 - LangChain
 - TavilyAPI
 - Gradio
-- ... more to come
+- Chroma
+- Docling
